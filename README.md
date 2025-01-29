@@ -1,6 +1,6 @@
 # ✨ Recipe Book Web Application
 
-This fully responsive Recipe Book web application was developed as part of an internship project provided by Unified Mentor Pvt Ltd, where I learned a great deal about building robust and user-centric web applications. The project focuses on providing an intuitive and seamless experience for users who wish to explore, manage, and share recipes.
+This fully responsive Recipe Book web application was developed as part of an internship project provided by Wobot AI, where I learned a great deal about building robust and user-centric web applications. The project focuses on providing an intuitive and seamless experience for users who wish to explore, manage, and share recipes.
 
  <hr/>
 
@@ -48,8 +48,6 @@ During the development of this recipe book web application, I gained valuable ex
 (Through this project, I expanded my skillset in database management, real-time data synchronization, and authentication, making me more adept at creating secure, scalable, and user-friendly web applications.)
 
 ## WebApp Overview 🧡
-
-![alt text](Slide1.PNG)
 
 ![alt text](Slide2.PNG)
 
