@@ -57,23 +57,3 @@ During the development of this recipe book web application, I gained valuable ex
 
 ![alt text](Slide5.PNG)
 
-![alt text](Slide6.PNG)
-
-![alt text](Slide7.PNG)
-
-![alt text](Slide9.PNG)
-
-![alt text](Slide10.PNG)
-
-![alt text](Slide11.PNG)
-
-![alt text](Slide12.PNG)
-
-![alt text](Slide13.PNG)
-
-![alt text](Slide14.PNG)
-
-![alt text](Slide15.PNG)
-
-![alt text](Slide16.PNG)
-
