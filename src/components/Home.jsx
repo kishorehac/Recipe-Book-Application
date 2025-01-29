@@ -13,7 +13,7 @@ const Home = () => {
   };
   return (
     <div>
-      <div className="  w-[100%] bg-gradient-to-b from-yellow-200 h-[100vh]">
+      <div className="  w-[100%] bg-gradient-to-b from-blue-200 h-[100vh]">
         <div className="grid     md:grid-cols-2 md:pt-16">
           <div className="flex justify-left items-center">
             <div className="ml-7 pt-10 md:ml-10 mr-10 items-center ">
@@ -27,7 +27,7 @@ const Home = () => {
                   {" "}
                   Recipe Book
                 </span>{" "}
-                , we believe furniture is more than just a piece of décor—it's the foundation of your home's personality. Our exclusive collection blends exceptional quality, innovative design, and unmatched comfort, offering you pieces that aren't just functional, but also elevate your living space. With each item, we bring you the perfect balance of style and comfort, transforming everyday moments into extraordinary experiences. Ready to make your home feel even more special? Explore how our furniture can help create a space that truly reflects you.
+                , we believe furniture is more than just a piece of decor—it's the foundation of your home's personality. Our exclusive collection blends exceptional quality, innovative design, and unmatched comfort, offering you pieces that aren't just functional, but also elevate your living space. With each item, we bring you the perfect balance of style and comfort, transforming everyday moments into extraordinary experiences. Ready to make your home feel even more special? Explore how our furniture can help create a space that truly reflects you.
               </div>
               <div className="mt-5">
                 {user ? (

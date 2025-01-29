@@ -7,15 +7,14 @@ import { getAnalytics } from "firebase/analytics";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBjnkR1ZvvSSVqiQIpdvu_q-9GQNtI4yyM",
-  authDomain: "recipe-book-43eaf.firebaseapp.com",
-  databaseURL:
-    "https://recipe-book-43eaf-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "recipe-book-43eaf",
-  storageBucket: "recipe-book-43eaf.appspot.com",
-  messagingSenderId: "1023569796936",
-  appId: "1:1023569796936:web:4f34591f07de108ccd1d7d",
-  measurementId: "G-M58L6K5F1X",
+  apiKey: "AIzaSyBmk9b2AZeU-sPIq-3z0enHteOjnsaHrnk",
+  authDomain: "recipe-book-application-6645f.firebaseapp.com",
+  databaseURL: "https://recipe-book-application-6645f-default-rtdb.firebaseio.com",
+  projectId: "recipe-book-application-6645f",
+  storageBucket: "recipe-book-application-6645f.firebasestorage.app",
+  messagingSenderId: "967808786510",
+  appId: "1:967808786510:web:543c4d3c9530c7c483a31f",
+  measurementId: "G-1CNB400LVQ"
 };
 
 // Initialize Firebase
